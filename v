@@ -10,9 +10,6 @@ local Workspace = game:GetService("Workspace")
 local localPlayer = Players.LocalPlayer
 local playerGui = localPlayer:WaitForChild("PlayerGui")
 
--- ============================================================
---  WEAPON MESH DATABASE - PASTE YOUR FULL LIST HERE
--- ============================================================
 local WEAPON_MESH_DATABASE = {
 
 
